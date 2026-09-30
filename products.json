@@ -1,12 +1,13 @@
 [
   {
-    "name": "Okinos Aqua Uno - Zebra",
+    "name": "Okinos Aqua Uno - ZEBRA",
     "url": "https://www.amazon.com/Okinos-Aqua-UNO-Black-White/dp/B0GV1CHXZ3/ref=sr_1_1?sr=8-1",
-    "target": 46
+    "target": 48
   },
+  
   {
-    "name": "Okinos Aqua Uno - Yellow+White",
-    "url": "https://www.amazon.com/dp/B0GV1W7MVD",
+    "name": "Okinos Aqua Uno - BLACK, RGB",
+    "url": "https://www.amazon.com/dp/B0GV14KXZQ",
     "target": 48
   },
   
@@ -14,5 +15,18 @@
     "name": "MSI MAG A550BN",
     "url": "https://www.amazon.com/dp/B0991W1HKT",
     "target": 45
+  },
+
+   {
+    "name": "360mm RGB AIO - BLACK",
+    "url": "https://www.amazon.com/dp/B0H7TLY7H8",
+    "target": 39
+  },
+
+  {
+    "name": "360mm RGB AIO - WHITE",
+    "url": "https://www.amazon.com/dp/B0H7TG8B7Y",
+    "target": 39
   }
+  
 ]
